@@ -23,18 +23,18 @@ This repository contains all materials related to the research project, organize
 
 ### Explicit Folder Structure
 
-./Extra_Materials
-./Extra_Materials/Information Sheets
-./Extra_Materials/Photography
-./Extra_Materials/Photography/Research
-./Literature
-./Reports
-./Research Analysis
-./Research Analysis/Qualitative
-./Research Analysis/Quantitative
-./Research Data
-./Research Data/Qualitative
-./Research Data/Quantitative
+./Extra_Materials \
+./Extra_Materials/Information Sheets \
+./Extra_Materials/Photography  \
+./Extra_Materials/Photography/Research v
+./Literature  \
+./Reports  \
+./Research Analysis  \
+./Research Analysis/Qualitative  \
+./Research Analysis/Quantitative  \
+./Research Data \
+./Research Data/Qualitative  \
+./Research Data/Quantitative  \
 
 ### Rules
 
