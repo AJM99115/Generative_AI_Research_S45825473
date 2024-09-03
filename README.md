@@ -21,4 +21,23 @@ This repository contains all materials related to the research project, organize
 - **Information Sheets**: Supplementary information sheets related to the research.
 - **Photography**: Photos and other media files.
 
+### Explicit Folder Structure
+
+./Extra_Materials
+./Extra_Materials/Information Sheets
+./Extra_Materials/Photography
+./Extra_Materials/Photography/Research
+./Literature
+./Reports
+./Research Analysis
+./Research Analysis/Qualitative
+./Research Analysis/Quantitative
+./Research Data
+./Research Data/Qualitative
+./Research Data/Quantitative
+
+### Rules
+
 If a new folder is needed and does not fit in under any of the categories then create an issue request and for it to be PR'd!
+
+
